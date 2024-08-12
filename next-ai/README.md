@@ -25,6 +25,14 @@ Sign in/ Sign out folder: catch all routes?
 
 Client Component can't use hooks or async
 
+### Zod
+
+Schema generator
+
+### Langchain
+
+LangChain gives you one standard interface for many use cases instead of using SDK of different model (ChatGPT, Claude,...)
+
 ### Clerk
 
 Identity as a Service
